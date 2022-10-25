@@ -1,0 +1,21 @@
+.changeStyleHeader {
+  text-align: center;
+  background-color: turquoise;
+}
+
+.changeStyleMain {
+  background-color: chocolate;
+}
+
+.changeStyleFooter{
+  background-color: pink;
+}
+
+img {
+  width: 50%;
+}
+
+.photoAutum  {
+  text-align: center;
+}
+
