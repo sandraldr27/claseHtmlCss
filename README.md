@@ -7,6 +7,9 @@ Tools used in the project:
 1) HTML5
 2) CSS3
 
+Version Status:
+This is a preliminary version subject to change
+
 Project Images:
 
 ![Web Prueba 1](https://user-images.githubusercontent.com/116546588/198879454-697dff3d-3268-4d41-9852-6850130fdc00.png)
