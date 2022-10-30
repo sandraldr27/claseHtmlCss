@@ -1,7 +1,7 @@
 This is my first project developed in the HTML and CSS class of the FEMCoders-F5 bootcamp (October 24, 2022)
 
-Project members:
-Sandra León, under the guidance of Professor José Miguel Quesada
+Project members: 
+Sandra León (https://www.linkedin.com/in/sandraldr/), under the guidance of Professor José Miguel Quesada
 
 Tools used in the project:
 1) HTML5
